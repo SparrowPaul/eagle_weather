@@ -1,5 +1,5 @@
-import 'package:eagle_weather/data/models/wather_model.dart';
-import 'package:eagle_weather/presentation/bloc/weather_bloc.dart';
+import 'package:eagle_weather/features/weather/data/models/wather_model.dart';
+import 'package:eagle_weather/features/weather/presentation/bloc/weather_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

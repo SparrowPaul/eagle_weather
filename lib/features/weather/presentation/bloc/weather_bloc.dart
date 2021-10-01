@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:eagle_weather/data/models/wather_model.dart';
-import 'package:eagle_weather/data/repositories/WeatherRepo.dart';
+import 'package:eagle_weather/features/weather/data/models/wather_model.dart';
+import 'package:eagle_weather/features/weather/data/repositories/WeatherRepo.dart';
 import 'package:equatable/equatable.dart';
 
 part 'weather_event.dart';
